@@ -27,6 +27,9 @@ fp-info-cache
 *.xlsx
 *.docx
 
+*.png
+*.jpg
+*.jpeg
 *.pdf
 *.zip
 *.json
