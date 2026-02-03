@@ -22,7 +22,7 @@ Optional the generated signals can be readin with an external interrupt and a in
 | Schematic | [pdf](https://github.com/0x007E/wfg/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/project/29870/main/files) | Schematic files |
 | Board | [pdf](https://github.com/0x007E/wfg/releases/latest/download/pcb.pdf) / [cadlab](https://cadlab.io/project/29870/main/files) | Board file |
 | Drill | [pdf](https://github.com/0x007E/wfg/releases/latest/download/drill.pdf) | Drill file |
-| Gerber | [zip](https://github.com/0x007E/wfg/releases/latest/download/kicad.zip) / [tar](https://github.com/0x007E/wfg/releases/latest/download/kicad.tar.gz) | Gerber/Drill files |
+| PCB | [zip](https://github.com/0x007E/wfg/releases/latest/download/kicad.zip) / [tar](https://github.com/0x007E/wfg/releases/latest/download/kicad.tar.gz) |  	KiCAD/Gerber/BoM/Drill files |
 | Firmware | [zip](https://github.com/0x007E/wfg/releases/latest/download/firmware.zip) / [tar](https://github.com/0x007E/wfg/releases/latest/download/firmware.tar.gz) | Demo Firmware for ATmega16 |
 
 # Hardware
