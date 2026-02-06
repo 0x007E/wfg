@@ -2,7 +2,7 @@
 
 # `WFG` - Waveform Generator (Signalgenerator)
 
-The `WFG` is a board with an [LM324](#additional-information) or any other 2-channel operational amplifier. The board itself is driven with a voltage of `5V`. It generates a triange and a pwm signal. Both signals can be adjustet through the onboard trimmer. When the board is connected to a voltage source the `green` led signals the readiness.
+The `WFG` is a board with an [LM324](#additional-information) or any other 4-channel operational amplifier. The board itself is driven with a voltage of `5V`. It generates a triange and a pwm signal. Both signals can be adjustet through the onboard trimmer. When the board is connected to a voltage source the `green` led signals the readiness.
 
 Optional the generated signals can be readin with an external interrupt and a internal running timmer on a microcontroller and status data can be sent to a terminal over UART. A demo how this can be done is attached and can be tested with an [ATmega16A](#additional-information).
 
